@@ -1,16 +1,21 @@
-## Hi there 👋
+ # Hi 👋
 
-<!--
-**masrurimz/masrurimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Software engineer from Indonesia, working at Nimbly Technologies.
 
-Here are some ideas to get you started:
+  ## What I work with
+  - **Frontend:** React, React Native, Next.js, TypeScript
+  - **Backend:** Node.js, Elysia, Express, PostgreSQL
+  - **Mobile:** React Native, Expo
+  - **Tools:** Claude Code, Playwright, Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Currently exploring
+  - Elysia + Eden for type-safe APIs
+  - TanStack Start with SSR
+  - Clean Architecture patterns
+
+  ## Other stuff
+  - Teaching React Native (500+ students)
+  - Published UX research at IEEE conference
+  - Working with international teams
+
+  Check out my pinned repos below!
